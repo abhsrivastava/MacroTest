@@ -1,0 +1,1 @@
+addCompilerPlugin("org.scalamacros" % "paradise_2.12.3" % "2.1.1" cross CrossVersion.full)
